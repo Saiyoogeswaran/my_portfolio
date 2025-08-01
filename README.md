@@ -39,7 +39,7 @@ Welcome to my personal portfolio repository! This space showcases a collection o
 
 Feel free to connect or reach out:
 
-- 📧 [examplemail@gmail.com](mailto:dsaiyoogeswaran13@gmail.com)
+- 📧 `Email: dsaiyoogeswaran13@gmail.com`
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saiyoogeswaran)
 
 ---
