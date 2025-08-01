@@ -44,6 +44,11 @@ Feel free to connect or reach out:
 
 ---
 
+## 🌐 Live Portfolio
+
+Visit my live portfolio: [saiyoogeswaran.com](https://sydportfolio.netlify.app/)
+
+
 ## 📌 Note
 
 This repository contains the front-end code for my portfolio site and links to individual project repositories. For full documentation and walkthroughs, visit each project’s GitHub page.
